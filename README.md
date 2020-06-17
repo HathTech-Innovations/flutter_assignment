@@ -16,6 +16,6 @@
 4. Keep you code clean, maintain a file structure and add neccessary comments
 5. Once done, push the code to the fork of this repository that you created
 
-**If you have any questions, reach out to us on jobs@hathech.com**
+**If you have any questions, reach out to us at jobs@hathech.com**
 
 **Good Luck!**
