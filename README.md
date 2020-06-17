@@ -1,6 +1,6 @@
 # HathTech's Hiring
-### Flutter Assignment
-## Follow the steps below to complete the assignment
+## Flutter Assignment
+### Follow the steps below to complete the assignment
 1. Create a fork of this project
 2. Code the design of the screens below in Flutter.
 
